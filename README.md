@@ -67,7 +67,7 @@ The dataset comes from **[Data.World – Fatal Police Shootings](https://data.wo
   <img 
     src="images/Top%2010%20States.png"
     alt="Top 10 States"
-    width="750"
+    width="600"
   >
 </p>
 
@@ -80,7 +80,7 @@ The dataset comes from **[Data.World – Fatal Police Shootings](https://data.wo
   <img 
     src="images/Demographics%20of%20the%20Victims.png"
     alt="Demographics of the Victims"
-    width="750"
+    width="600"
   >
 </p>
 
@@ -93,7 +93,7 @@ The dataset comes from **[Data.World – Fatal Police Shootings](https://data.wo
   <img 
     src="images/Weapons%20Used%20in%20the%20Shootings.png"
     alt="Weapons Used"
-    width="750"
+    width="600"
   >
 </p>
 
