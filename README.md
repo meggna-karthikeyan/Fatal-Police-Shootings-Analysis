@@ -4,7 +4,6 @@
 
 # 🚔 Fatal Police Shootings | Data Visualization & Policy Analysis (2015–2022)
 
----
 
 ## 📝 Overview
 
@@ -12,7 +11,6 @@ This project explores **fatal police shootings across the United States from 201
 
 The goal is simple: move past headlines and let the data tell the story — so that reform can be guided by patterns, not perception.
 
----
 
 ## 📦 Dataset Source
 
@@ -29,7 +27,6 @@ The dataset comes from **[Data.World – Fatal Police Shootings](https://data.wo
 | `threat_level` | Perceived threat: attack / other / undetermined |
 | `flee`, `body_camera` | Fleeing status and body-camera presence |
 
----
 
 ## 🛠 Technologies Used
 
@@ -39,7 +36,6 @@ The dataset comes from **[Data.World – Fatal Police Shootings](https://data.wo
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4B8BBE?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-FF6F61?style=for-the-badge&logo=bookstack&logoColor=white)
 
----
 
 ## 🎯 Objectives
 
@@ -47,7 +43,6 @@ The dataset comes from **[Data.World – Fatal Police Shootings](https://data.wo
 2. **Geography** — How do fatal shootings vary across states and regions of the country?
 3. **Circumstances** — What role do weapons, perceived threat level, signs of mental illness, and body cameras play?
 
----
 
 ## 🔬 Methodology
 
@@ -57,7 +52,6 @@ The dataset comes from **[Data.World – Fatal Police Shootings](https://data.wo
 - **Date filtering** — a date function scopes the analysis to the 2015–2022 window.
 - **Interactivity** — a state filter lets users drill into any state and update every chart dynamically.
 
----
 
 ## 📈 Key Findings
 
@@ -81,7 +75,6 @@ The distribution peaks sharply among young adults aged 15–30 — a critical li
 ![Weapons Used](images/Weapons%20Used%20in%20the%20Shootings.png)
 Firearms are the most frequently involved weapon, underscoring the need for stronger de-escalation strategies in armed encounters.
 
----
 
 ## 📊 Interactive Dashboard
 
@@ -92,7 +85,6 @@ The full story comes together in a single interactive **Tableau dashboard** — 
 > 📂 **Explore it yourself:** download **`Fatal Police Shootings.twbx`** and open it in the free [Tableau Reader](https://www.tableau.com/products/reader) or Tableau Desktop.
 > 🔗 *Interactive version:* `‹add your Tableau Public link here›`
 
----
 
 ## 🎯 Recommendations & Implications
 
@@ -100,7 +92,6 @@ The full story comes together in a single interactive **Tableau dashboard** — 
 2. **Policy reforms** — standardize use-of-force policies nationwide, with body cameras, comprehensive reporting, and independent investigations.
 3. **Community engagement** — invest in community-policing initiatives that rebuild trust in the areas hit hardest.
 
----
 
 ## 📌 Future Scope
 
@@ -108,8 +99,6 @@ The full story comes together in a single interactive **Tableau dashboard** — 
 - Layer in socioeconomic and policing-policy data to explain *why* certain states rank higher.
 - Add predictive modeling to flag high-risk conditions and support prevention efforts.
 
----
 
 > _Behind every data point is a life — this project turns those numbers into a case for accountability and reform._
 
-**Created by Meggna Karthikeyan**
