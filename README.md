@@ -2,8 +2,7 @@
   <img src="images/First%20Image.png" alt="Fatal Police Shootings" width="100%">
 </p>
 
-# 🚔 Fatal Police Shootings | Data Visualization & Policy Analysis (2015–2022)
-
+# 🚔 Fatal Police Shootings | Data Visualization & Policy Analysis
 
 ## 📝 Overview
 
@@ -14,7 +13,7 @@ The goal is simple: move past headlines and let the data tell the story — so t
 
 ## 📦 Dataset Source
 
-The dataset comes from **[Data.World – Fatal Police Shootings](https://data.world)** and documents every fatal police shooting in the U.S. between **2015 and 2022**, with one row per incident.
+The dataset comes from **[Data.World – Fatal Police Shootings](https://data.world/data-society/fatal-police-shootings)** and documents every fatal police shooting in the U.S. between **2015 and 2022**, with one row per incident.
 
 | Column | Description |
 |--------|-------------|
@@ -64,16 +63,43 @@ The dataset comes from **[Data.World – Fatal Police Shootings](https://data.wo
 | 📉 **Trend over time** | Annual totals stayed **relatively stable from 2015 to 2022**, suggesting existing measures have not meaningfully reduced incidents. |
 
 ### 🏆 Top 10 States for Fatal Police Shootings
-![Top 10 States](images/Top%2010%20States.png)
-California, Texas, and Florida dominate the national picture, together making up a disproportionate share of incidents.
+<p align="center">
+  <img 
+    src="images/Top%2010%20States.png"
+    alt="Top 10 States"
+    width="750"
+  >
+</p>
+
+<p>
+  California, Texas, and Florida dominate the national picture, together making up a disproportionate share of incidents.
+</p>
 
 ### 👥 Demographics of the Victims
-![Demographics of the Victims](images/Demographics%20of%20the%20Victims.png)
-The distribution peaks sharply among young adults aged 15–30 — a critical life stage of education, work, and family.
+<p align="center">
+  <img 
+    src="images/Demographics%20of%20the%20Victims.png"
+    alt="Demographics of the Victims"
+    width="750"
+  >
+</p>
+
+<p>
+  The distribution peaks sharply among young adults aged 15–30, a critical life stage of education, work, and family.
+</p>
 
 ### 🔫 Weapons Used in the Shootings
-![Weapons Used](images/Weapons%20Used%20in%20the%20Shootings.png)
-Firearms are the most frequently involved weapon, underscoring the need for stronger de-escalation strategies in armed encounters.
+<p align="center">
+  <img 
+    src="images/Weapons%20Used%20in%20the%20Shootings.png"
+    alt="Weapons Used"
+    width="750"
+  >
+</p>
+
+<p>
+  Firearms are the most frequently involved weapon, underscoring the need for stronger de-escalation strategies in armed encounters.
+</p>
 
 
 ## 📊 Interactive Dashboard
@@ -83,7 +109,6 @@ The full story comes together in a single interactive **Tableau dashboard** — 
 ![Fatal Police Shootings Dashboard](images/Fatal%20Police%20Shootings.png)
 
 > 📂 **Explore it yourself:** download **`Fatal Police Shootings.twbx`** and open it in the free [Tableau Reader](https://www.tableau.com/products/reader) or Tableau Desktop.
-> 🔗 *Interactive version:* `‹add your Tableau Public link here›`
 
 
 ## 🎯 Recommendations & Implications
